@@ -19,15 +19,17 @@ Deep Learning
 2.[transferlearning](https://github.com/chiajung0001/PythonAI/blob/master/transferlearning.ipynb)
 
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
-
-
-
-
+<br>
 
 #異常處理
 
