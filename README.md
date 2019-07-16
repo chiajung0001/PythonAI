@@ -32,4 +32,6 @@ Deep Learning
 #異常處理
 
 pycharm You are using pip version 10.0.1, however version 19.1.1 is available.
+
+
 ```easy_install -U pip```
