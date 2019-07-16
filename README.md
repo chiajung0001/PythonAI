@@ -33,7 +33,7 @@ Deep Learning
 
 #異常處理
 
-pycharm You are using pip version 10.0.1, however version 19.1.1 is available.
+[pycharm You are using pip version 10.0.1, however version 19.1.1 is available.](https://stackoverflow.com/questions/41206850/how-can-i-update-pip-in-pycharm-when-i-have-two-versions-of-python)
 
 
 ```easy_install -U pip```
